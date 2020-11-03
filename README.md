@@ -7,6 +7,10 @@ Additionally, the notebook contains a full exploratory data analysis that covers
 
 The raw data can be found on [Basketball Reference](https://www.basketball-reference.com/) and the tabular data can be found on my [Kaggle](https://www.kaggle.com/jpsdev/19802019-nba-team-stats)
 
+There is also a web-app that demos the logistic model and graphs some of the stats.
+* [Web app](https://jp-sdev.github.io/nba_clustering/)
+* [GitHub repo](https://github.com/JP-sDEV/nba_clustering)
+
 # Model Summary 
 3 models were all trained on a 80/20 - test/validation set. The additional features were calculated from the initial data collected from Basketball Reference. More information of how the additional features were calculated [here](https://www.nbastuffer.com/analytics-101/)
 
